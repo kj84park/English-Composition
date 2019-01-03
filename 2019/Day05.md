@@ -32,14 +32,15 @@
 
 #### after run half of distance, a hare started feel boring. a tortoise was silence behind, he decided take a nap.
 
-## meanwhile, a tortoise kept walking step by step.
+#### meanwhile, a tortoise kept walking step by step.
 
-### he never stop and kept going.
+#### he never stop and kept going.
 
-### when a hare woke up, a tortoise is not his sight. he started run again. but it was too late.
+#### when a hare woke up, a tortoise is not his sight. he started run again. but it was too late.
 
-### a tortoise already passed end line.
+#### a tortoise already passed end line.
 
+<hr/>
 
 # Solution
 
