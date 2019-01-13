@@ -68,7 +68,7 @@
 
 # Solution
 
-#### When Iwas 17, I read a quote that went something like : "If you live each day as if it was your last,
+#### When I was 17, I read a quote that went something like : "If you live each day as if it was your last,
 
 #### Someday you'll most certainly be right" It made an impression on me, 
 
