@@ -20,6 +20,6 @@
 
 ### 35. Workers should be made aware of safety procedures.
 
-### 38. it is advisable to update computer equipment regularly.
+### 38. It is advisable to update computer equipment regularly.
 
 ### 39. The report is mainly concerned with current investments.
