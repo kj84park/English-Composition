@@ -8,7 +8,7 @@
 
 ### 7. The report asserts that corporate growth will continue.
 
-### 12. The coast of living will remain stable over the next decade.
+### 12. The cost of living will remain stable over the next decade.
 
 ### 12. It remains to be seen whether or not the tax cut will be passed.
 
@@ -42,9 +42,9 @@
 
 ### 34. Consumer spending is on the wane.
 
-### 35. Strong economic is growth is a prerequisite for national prosperity.
+### 35. Strong economic growth is a prerequisite for national prosperity.
 
-### 37. The company's profits dwindled in the 19990s.
+### 37. The company's profits dwindled in the 1990s.
 
 ### 38. Natural calamities in the summer will impede national growth.
 
