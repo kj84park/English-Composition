@@ -2,7 +2,7 @@
 
 ### 1. All our employees are accustomed to using the new design software.
 
-### 2. Although Ms.Jenkins is a demanding supervisor, she has a reputation for being fair.
+### 3. Although Ms.Jenkins is a demanding supervisor, she has a reputation for being fair.
 
 ### 18. The person with the highest performance evaluation deserves the Employee of the Year Award.
 
