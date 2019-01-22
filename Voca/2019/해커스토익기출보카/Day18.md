@@ -2,7 +2,7 @@
 
 ### 2.The hotel compensated the guest for the erroneous charge.
 
-### 3. Gusts are given a complimentary light breakfast.
+### 3. Guests are given a complimentary light breakfast.
 
 ### 7. The shop sells ice cream in a variety of flavors.
 
