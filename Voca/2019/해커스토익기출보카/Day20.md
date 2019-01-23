@@ -34,7 +34,7 @@
 
 ### 32. Some stockholders were fortunate to invest in the company early.
 
-### 33 This month's sales outweigh expenditures.
+### 33. This month's sales outweigh expenditures.
 
 ### 37. Results for the past fiscal year will be announced in August.
 
