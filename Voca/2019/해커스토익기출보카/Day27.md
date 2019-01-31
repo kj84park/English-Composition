@@ -1,4 +1,4 @@
-## Day 27
+## Day 27 투자
 
 ### 2. The company scanned the market for lucrative investment opportunities.
 
